@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Auction Random Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>🏆 Auction Number Generator</h1>
+
+    <div class="number-box" id="number">---</div>
+
+    <button onclick="generateNumber()">Generate</button>
+    <button class="history-btn" onclick="toggleHistory()">Show Used Numbers</button>
+
+    <p class="range">Range: 1 – 155</p>
+
+    <div id="history" class="history hidden"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
