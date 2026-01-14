@@ -36,3 +36,21 @@ function toggleHistory() {
     historyDiv.classList.add("hidden");
   }
 }
+
+function showHowTo() {
+  const modal = document.getElementById("howToModal");
+  modal.style.display = "block";
+}
+
+function closeHowTo() {
+  const modal = document.getElementById("howToModal");
+  modal.style.display = "none";
+}
+
+// Close modal when clicking outside
+window.onclick = function(event) {
+  const modal = document.getElementById("howToModal");
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}

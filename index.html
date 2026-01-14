@@ -8,16 +8,32 @@
 <body>
 
   <div class="container">
-    <h1>🏆 Auction Number Generator</h1>
+    <h2>🏆 Auction Number Generator</h2>
 
     <div class="number-box" id="number">---</div>
 
     <button onclick="generateNumber()">Generate</button>
     <button class="history-btn" onclick="toggleHistory()">Show Used Numbers</button>
+    <button class="how-to-btn" onclick="showHowTo()">How to Use</button>
 
     <p class="range">Range: 1 – 155</p>
 
     <div id="history" class="history hidden"></div>
+  </div>
+
+  <div id="howToModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeHowTo()">&times;</span>
+      <h3>How to Use This Site</h3>
+      <p>Welcome to the Auction Number Generator!</p>
+      <ul>
+        <li>Click the "Generate" button to get a random number between 1 and 155.</li>
+        <li>Each number is unique and won't be repeated.</li>
+        <li>Use the "Show Used Numbers" button to see which numbers have already been generated.</li>
+        <li>The range is fixed from 1 to 155.</li>
+        <li>When all numbers are used, you'll see "DONE".</li>
+      </ul>
+    </div>
   </div>
 
   <script src="script.js"></script>
