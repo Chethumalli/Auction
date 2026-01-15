@@ -40,6 +40,7 @@ Follow these steps to run Auction on your machine:
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Chethumalli/Auction.git
+
 2️⃣ Open in browser
 Just open index.html in your favorite browser.
 
@@ -49,8 +50,6 @@ Browse listed items on the main page.
 Click Bid to place your offer.
 
 The highest valid bid wins when time ends.
-
-(You can extend this to real backends later!)
 
 💡 Why This Project?
 This repo is perfect for:
