@@ -67,8 +67,6 @@ Contributions are welcome! If you’d like to add:
 ✅ Backend API
 ✅ Database support
 
-…feel free to open an issue or submit a pull request.
-
 📬 Let’s Connect
 Made with ❤️ by Chethumalli
 Questions? Reach out!
