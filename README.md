@@ -58,6 +58,8 @@ Beginner web developers learning JavaScript DOM & logic
 
 UI/UX experimentation
 
+Extending to full-stack auctions with real backend
+
 ⭐ Want to Improve It?
 Contributions are welcome! If you’d like to add:
 ✅ User accounts
