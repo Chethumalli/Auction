@@ -60,7 +60,7 @@ UI/UX experimentation
 
 Extending to full-stack auctions with real backend
 
-⭐ Want to Improve It?
+## ⭐ Want to Improve It?
 Contributions are welcome! If you’d like to add:
 ✅ User accounts
 ✅ Real-time bidding (WebSockets)
