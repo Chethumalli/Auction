@@ -51,7 +51,7 @@ Click Bid to place your offer.
 
 The highest valid bid wins when time ends.
 
-💡 Why This Project?
+## 💡 Why This Project?
 This repo is perfect for:
 
 Beginner web developers learning JavaScript DOM & logic
