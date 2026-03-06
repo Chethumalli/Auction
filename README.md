@@ -38,10 +38,11 @@ Welcome to **Auction** — a sleek, interactive web application that allows user
 Follow these steps to run Auction on your machine:
 
 1️⃣ Clone the repository
-
+```
 git clone https://github.com/Chethumalli/Auction.git
-
+```
 2️⃣ Open in browser
+
 Just open index.html in your favorite browser.
 
 🧠 How It Works
@@ -67,6 +68,6 @@ Contributions are welcome! If you’d like to add:
 ✅ Backend API
 ✅ Database support
 
-📬 Let’s Connect
+## 📬 Let’s Connect
 Made with ❤️ by Chethumalli
 Questions? Reach out!
